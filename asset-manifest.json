@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/minervas_instants/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/minervas_instants/static/js/main.8454e654.chunk.js",
+    "main.js.map": "/minervas_instants/static/js/main.8454e654.chunk.js.map",
+    "runtime-main.js": "/minervas_instants/static/js/runtime-main.b2fd1321.js",
+    "runtime-main.js.map": "/minervas_instants/static/js/runtime-main.b2fd1321.js.map",
+    "static/js/2.3e255f42.chunk.js": "/minervas_instants/static/js/2.3e255f42.chunk.js",
+    "static/js/2.3e255f42.chunk.js.map": "/minervas_instants/static/js/2.3e255f42.chunk.js.map",
+    "index.html": "/minervas_instants/index.html",
+    "precache-manifest.39e127eb153622c5007f107c6fa71f66.js": "/minervas_instants/precache-manifest.39e127eb153622c5007f107c6fa71f66.js",
+    "service-worker.js": "/minervas_instants/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/minervas_instants/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3e255f42.chunk.js.LICENSE.txt": "/minervas_instants/static/js/2.3e255f42.chunk.js.LICENSE.txt",
+    "static/media/s4zlNEuh_400x400.jpg": "/minervas_instants/static/media/s4zlNEuh_400x400.16f1923a.jpg",
+    "static/media/soco.ogg": "/minervas_instants/static/media/soco.33d8229c.ogg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2fd1321.js",
+    "static/js/2.3e255f42.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.8454e654.chunk.js"
+  ]
+}
